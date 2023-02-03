@@ -1,0 +1,8 @@
+{
+  "name": "flashlight",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "cc860e86"
+}
